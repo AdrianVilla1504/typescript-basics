@@ -1,20 +1,12 @@
-let lname : string;
-
+"use strict";
+var lname;
 lname = "Adrian";
-
-let newname = lname.toUpperCase();
-
+var newname = lname.toUpperCase();
 console.log(newname);
-
-let age: number;
-
+var age;
 age = 25;
 age = 25.5;
-
 console.log(age);
-
-let isValid : boolean;
-
+var isValid;
 isValid = true;
-
 console.log(isValid);
